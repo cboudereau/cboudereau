@@ -8,7 +8,7 @@
 
 Functional programming, observability, cloud computing are my favorite topics.
 
-You can find my contribution as a reviewer of [Scott Wlaschin](https://github.com/swlaschin)'s Domain modeling made Functional book.
+You can find my contribution as a reviewer of [Scott Wlaschin](https://github.com/swlaschin)'s [Domain modeling made Functional](https://fsharpforfunandprofit.com/books/) book.
 
 I try to post every week on observability: [o11y-weekly](https://o11y-weekly.github.io)
 
